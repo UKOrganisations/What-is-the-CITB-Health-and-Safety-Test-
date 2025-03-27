@@ -19,7 +19,7 @@ By passing the **CITB Health and Safety Environment Test**, you demonstrate your
 
 ## How to Book Your CITB Health and Safety Test
 
-You can **book your CITB Health, Safety, and Environment Test** through an accredited test provider. For more details, visit [HS&E Tests - Security Training Courses in Manchester, UK](https://dynamiseducation.co.uk/cscs-test-manchester/).
+You can **book your CITB Health, Safety, and Environment Test** through an accredited test provider. For more details, visit [HS&E Tests - Security Training Courses in Manchester, UK](https://dynamiseducation.co.uk/hse-tests/).
 
 ## Contact Us
 
