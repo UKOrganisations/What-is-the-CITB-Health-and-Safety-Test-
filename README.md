@@ -1,36 +1,33 @@
 # What is the CITB Health and Safety Test?
 
-The **CITB Health and Safety Test** is a crucial requirement for construction workers in the UK. This test assesses your knowledge of health, safety, and environmental best practices, ensuring that workers can identify hazards, follow safety regulations, and maintain a secure working environment on construction sites.
+The **CITB Health and Safety Test** is an essential assessment for construction workers in the UK. It evaluates knowledge of health, safety, and environmental practices, ensuring that individuals understand how to maintain a safe workplace. This test is a requirement for obtaining a CSCS card and demonstrates competency in safety regulations.
 
 ## Operative Level CITB Health, Safety, and Environment Test
 
-The **Operative Level CITB Health, Safety, and Environment Test** is designed for general construction workers and laborers. Passing this test is necessary to apply for a **CSCS (Construction Skills Certification Scheme) Card**, which is often required to work on UK construction sites.
+The **Operative Level CITB Health, Safety, and Environment Test** is designed for general construction workers. It covers crucial topics such as hazard awareness, risk assessment, and workplace safety protocols.
 
-### Key Topics Covered:
-- Hazard awareness and risk assessments
-- Fire prevention and emergency procedures
-- Manual handling and working at heights
-- Personal protective equipment (PPE)
-- Environmental awareness and waste management
+## Types of CITB Health and Safety Tests
 
-## Why Take the CITB Health and Safety Test?
+| Test Type                            | Description                                                                      |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| **Operative Test**                   | Suitable for general construction workers.                                       |
+| **Specialist Test**                  | For individuals working in specific trades, such as plumbing or electrical work. |
+| **Managerial and Professional Test** | Required for site managers and supervisors.                                      |
 
-By passing the **CITB Health and Safety Environment Test**, you demonstrate your ability to work safely and help reduce workplace accidents. This certification is highly valued by employers and helps improve job prospects in the construction industry.
+## How to Book the CITB Health and Safety Test
 
-## How to Book Your CITB Health and Safety Test
+You can book the **CITB Health, Safety, and Environment Test** online through an accredited test provider. Make sure to select the correct test level based on your role in the industry.
 
-You can **book your CITB Health, Safety, and Environment Test** through an accredited test provider. For more details, visit [HS&E Tests - Security Training Courses in Manchester, UK](https://dynamiseducation.co.uk/hse-tests/).
+For more information, visit [this page](https://dynamiseducation.co.uk/hse-tests/).
 
-## Contact Us
+## Contact Information
 
-For assistance with booking your test or preparing for the exam, contact **Dynamis Enterprises Ltd**:
+**Dynamis Enterprises Ltd**\
+2 Exeter Close, Ardwick\
+Manchester, M12 4AW, UK
 
-**Dynamis Enterprises Ltd**  
-2 Exeter Close, Ardwick  
-Manchester, M12 4AW, UK  
-
-**Contact Person:** Joel Igenoza  
-📞 **Telephone:** 0800 024 2443  
-📱 **Mobile:** 07817 448478  
-✉️ **Email:** [j.igenoza@dynamisenterprises.co.uk](mailto:j.igenoza@dynamisenterprises.co.uk)  
-🌐 **Website:** [https://dynamiseducation.co.uk](https://dynamiseducation.co.uk)  
+**Contact Person:** Joel Igenoza\
+📞 **Telephone:** 0800 024 2443\
+📱 **Mobile:** 07817 448478\
+✉️ **Email:** [j.igenoza@dynamisenterprises.co.uk](mailto:j.igenoza@dynamisenterprises.co.uk)\
+🌐 **Website:** [https://dynamiseducation.co.uk](https://dynamiseducation.co.uk)
